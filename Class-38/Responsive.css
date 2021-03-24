@@ -115,6 +115,9 @@ header .header-right ul li a {
   width: 60%;
   margin: auto;
 }
+.benner .benner-conten span {
+  font-size: 10px;
+}
 .benner .benner-conten p {
   font-size: 12px;
   margin-top: 7px;
